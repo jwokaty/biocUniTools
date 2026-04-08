@@ -190,6 +190,7 @@ construct the repository path. Note: the `arch` field in `rtracklayer`’s
       "check": "WARNING",
       "buildurl": "https://github.com/r-universe/bioc/actions/runs/23130760393"
     }
+  ]
 }
 ```
 
