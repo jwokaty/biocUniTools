@@ -62,7 +62,7 @@ sessionInfo()
     [25] yaml_2.3.12         pillar_1.11.1       tidyr_1.3.2
     [28] DT_0.34.0           cachem_1.1.0        tidyselect_1.2.1
     [31] rvest_1.0.5         digest_0.6.39       stringi_1.8.7
-    [34] fastmap_1.2.0       cli_3.6.5           magrittr_2.0.5
+    [34] fastmap_1.2.0       cli_3.6.6           magrittr_2.0.5
     [37] RBGL_1.86.0         XML_3.99-0.23       reactR_0.6.1
     [40] readr_2.2.0         withr_3.0.2         filelock_1.0.3
     [43] rappdirs_0.3.4      bit64_4.6.0-1       lubridate_1.9.5
