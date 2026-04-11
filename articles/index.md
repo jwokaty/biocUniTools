@@ -46,13 +46,13 @@ sessionInfo()
     [1] stats     graphics  grDevices utils     datasets  methods   base
 
     other attached packages:
-    [1] purrr_1.2.1         reactable_0.4.5     httr2_1.2.2
+    [1] purrr_1.2.2         reactable_0.4.5     httr2_1.2.2
     [4] biocUniTools_0.0.99 dplyr_1.2.1         BiocPkgTools_1.28.3
     [7] htmlwidgets_1.6.4
 
     loaded via a namespace (and not attached):
      [1] xfun_0.57           gh_1.5.0            Biobase_2.70.0
-     [4] tzdb_0.5.0          vctrs_0.7.2         tools_4.5.3
+     [4] tzdb_0.5.0          vctrs_0.7.3         tools_4.5.3
      [7] crosstalk_1.2.2     bitops_1.0-9        generics_0.1.4
     [10] stats4_4.5.3        curl_7.0.0          RUnit_0.4.33.1
     [13] tibble_3.3.1        RSQLite_2.4.6       blob_1.3.0
