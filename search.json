@@ -21,66 +21,66 @@
     "text": "R Universe and Bioconductor release\nhttps://bioc-release.r-universe.dev\n\n\n\n\n\n\n\n\n\n\nCode\nsessionInfo()\n\n\nR version 4.6.1 (2026-06-24)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 24.04.5 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nother attached packages:\n[1] purrr_1.2.2          reactable_0.4.5      httr2_1.3.0         \n[4] biocUniTools_0.0.102 dplyr_1.2.1          BiocPkgTools_1.30.1 \n[7] htmlwidgets_1.6.4   \n\nloaded via a namespace (and not attached):\n [1] xfun_0.62           gh_1.6.1            Biobase_2.72.0     \n [4] tzdb_0.5.0          vctrs_0.7.3         tools_4.6.1        \n [7] crosstalk_1.2.2     bitops_1.1-0        generics_0.1.4     \n[10] stats4_4.6.1        curl_8.1.0          RUnit_0.4.33.1     \n[13] tibble_3.3.1        RSQLite_3.53.3      blob_1.3.0         \n[16] pkgconfig_2.0.3     dbplyr_2.6.0        graph_1.90.0       \n[19] lifecycle_1.0.5     compiler_4.6.1      stringr_1.6.0      \n[22] biocViews_1.80.0    htmltools_0.5.9     RCurl_1.98-1.20    \n[25] yaml_2.3.12         pillar_1.11.1       tidyr_1.3.2        \n[28] DT_0.34.0           cachem_1.1.0        tidyselect_1.2.1   \n[31] rvest_1.0.5         digest_0.6.39       stringi_1.8.9      \n[34] fastmap_1.2.0       cli_3.6.6           magrittr_2.0.5     \n[37] RBGL_1.88.0         XML_3.99-0.25       readr_2.2.0        \n[40] withr_3.0.3         reactR_0.6.1        filelock_1.0.3     \n[43] bit64_4.8.6         lubridate_1.9.5     timechange_0.4.0   \n[46] rmarkdown_2.32      httr_1.4.9          igraph_2.3.4       \n[49] bit_4.6.0           otel_0.2.0          hms_1.1.4          \n[52] memoise_2.0.1       evaluate_1.0.5      knitr_1.52         \n[55] BiocFileCache_3.2.0 rlang_1.3.0         glue_1.8.1         \n[58] DBI_1.3.0           BiocManager_1.30.27 xml2_1.6.0         \n[61] BiocGenerics_0.58.1 jsonlite_2.0.0      R6_2.6.1"
   },
   {
-    "objectID": "reports/compare/devel-books.html",
-    "href": "reports/compare/devel-books.html",
-    "title": "Books: devel",
+    "objectID": "reports/compare/devel-software.html",
+    "href": "reports/compare/devel-software.html",
+    "title": "Software: devel",
     "section": "",
-    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 22:04 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n13\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n11\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
-  },
-  {
-    "objectID": "reports/compare/release-workflows.html",
-    "href": "reports/compare/release-workflows.html",
-    "title": "Workflows: release",
-    "section": "",
-    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 22:05 UTC.\nResults compared: BBS R CMD build and R Universe source R CMD check. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n28\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n6\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
-  },
-  {
-    "objectID": "reports/compare/devel-data-experiment.html",
-    "href": "reports/compare/devel-data-experiment.html",
-    "title": "Experiment data: devel",
-    "section": "",
-    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 22:04 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n440\n\n\npackages\n\n\n\n\n1\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n53\n\n\nresults differ\n\n\n\n\n1\n\n\nR Universe check ≠ binary check"
+    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 23:18 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n2476\n\n\npackages\n\n\n\n\n3\n\n\nbuilt by only one system\n\n\n\n\n23\n\n\ncommits differ\n\n\n\n\n221\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
   },
   {
     "objectID": "reports/compare/release-data-experiment.html",
     "href": "reports/compare/release-data-experiment.html",
     "title": "Experiment data: release",
     "section": "",
-    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 22:05 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n436\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n52\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
-  },
-  {
-    "objectID": "reports/compare/index.html",
-    "href": "reports/compare/index.html",
-    "title": "BBS and R Universe: summary",
-    "section": "",
-    "text": "Each row compares one Bioconductor branch and package type on x86_64-linux-gnu. Workflows compare BBS R CMD build with R Universe source R CMD check; other types compare R CMD check. NOTE counts as OK; WARNINGS matches WARNING. Select a type for its packages.\nUpdated 2026-10-27 22:05 UTC."
-  },
-  {
-    "objectID": "reports/compare/release-software.html",
-    "href": "reports/compare/release-software.html",
-    "title": "Software: release",
-    "section": "",
-    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 22:05 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n2418\n\n\npackages\n\n\n\n\n1\n\n\nbuilt by only one system\n\n\n\n\n2\n\n\ncommits differ\n\n\n\n\n193\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 23:19 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n436\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n52\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
   },
   {
     "objectID": "reports/compare/release-books.html",
     "href": "reports/compare/release-books.html",
     "title": "Books: release",
     "section": "",
-    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 22:05 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n13\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n11\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 23:19 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n13\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n11\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
   },
   {
-    "objectID": "reports/compare/devel-software.html",
-    "href": "reports/compare/devel-software.html",
-    "title": "Software: devel",
+    "objectID": "reports/compare/devel-data-experiment.html",
+    "href": "reports/compare/devel-data-experiment.html",
+    "title": "Experiment data: devel",
     "section": "",
-    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 22:04 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n2476\n\n\npackages\n\n\n\n\n3\n\n\nbuilt by only one system\n\n\n\n\n23\n\n\ncommits differ\n\n\n\n\n221\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 23:18 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n440\n\n\npackages\n\n\n\n\n1\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n53\n\n\nresults differ\n\n\n\n\n1\n\n\nR Universe check ≠ binary check"
+  },
+  {
+    "objectID": "reports/compare/release-software.html",
+    "href": "reports/compare/release-software.html",
+    "title": "Software: release",
+    "section": "",
+    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 23:19 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n2418\n\n\npackages\n\n\n\n\n1\n\n\nbuilt by only one system\n\n\n\n\n2\n\n\ncommits differ\n\n\n\n\n193\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+  },
+  {
+    "objectID": "reports/compare/devel-books.html",
+    "href": "reports/compare/devel-books.html",
+    "title": "Books: devel",
+    "section": "",
+    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 23:18 UTC.\nResults compared: R CMD check on both. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n13\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n11\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
   },
   {
     "objectID": "reports/compare/devel-workflows.html",
     "href": "reports/compare/devel-workflows.html",
     "title": "Workflows: devel",
     "section": "",
-    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 22:04 UTC.\nResults compared: BBS R CMD build and R Universe source R CMD check. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n29\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n5\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+    "text": "Bioconductor 3.24 (devel), x86_64-linux-gnu. BBS node nebbiolo2 and R Universe bioc. Updated 2026-10-27 23:18 UTC.\nResults compared: BBS R CMD build and R Universe source R CMD check. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n29\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n5\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+  },
+  {
+    "objectID": "reports/compare/release-workflows.html",
+    "href": "reports/compare/release-workflows.html",
+    "title": "Workflows: release",
+    "section": "",
+    "text": "Bioconductor 3.23 (release), x86_64-linux-gnu. BBS node nebbiolo1 and R Universe bioc-release. Updated 2026-10-27 23:19 UTC.\nResults compared: BBS R CMD build and R Universe source R CMD check. NOTE counts as OK; WARNINGS matches WARNING.\n\n\n\n28\n\n\npackages\n\n\n\n\n0\n\n\nbuilt by only one system\n\n\n\n\n0\n\n\ncommits differ\n\n\n\n\n6\n\n\nresults differ\n\n\n\n\n0\n\n\nR Universe check ≠ binary check"
+  },
+  {
+    "objectID": "reports/compare/index.html",
+    "href": "reports/compare/index.html",
+    "title": "BBS and R Universe: summary",
+    "section": "",
+    "text": "Each row compares one Bioconductor branch and package type on x86_64-linux-gnu. Workflows compare BBS R CMD build with R Universe source R CMD check; other types compare R CMD check. NOTE counts as OK; WARNINGS matches WARNING. Select a type for its packages.\nUpdated 2026-10-27 23:19 UTC."
   }
 ]
